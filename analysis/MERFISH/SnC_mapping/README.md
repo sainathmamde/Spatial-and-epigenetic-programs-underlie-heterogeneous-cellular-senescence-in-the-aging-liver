@@ -44,6 +44,6 @@ pass the same value to SenSpot detection.
    `OUT_DIR/senspots/topn300_eps50/` with the default settings.
 
 The scripts use Python, Scanpy, AnnData, NumPy, pandas, SciPy, scikit-learn, and
-Matplotlib. A GPU is optional for the upstream annotation workflow. The mapping
+Matplotlib. The mapping
 scripts run on CPU. On the manuscript dataset, section export used about 200 GB
 of RAM and label transfer used up to about 150 GB per process.
