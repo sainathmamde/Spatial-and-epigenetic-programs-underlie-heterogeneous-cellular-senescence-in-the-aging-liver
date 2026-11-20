@@ -1,8 +1,9 @@
 # Spatial and epigenetic programs underlie heterogeneous cellular senescence in the aging liver
 
-This repository organizes the analysis code for a study of cellular senescence in the aging mouse liver using 10x Multiome, Paired-Tag, snm3C-seq, and MERFISH.
+This repository organizes the analysis code for the following study of cellular senescence in the aging mouse liver using 10x Multiome, Paired-Tag, snm3C-seq, and MERFISH.
 
 Mamde\*, Li\*, Teneche\*, et al. “Spatial and Epigenetic Programs Underlie Heterogeneous Cellular Senescence in the Aging Liver.” 19 Nov. 2026. *bioRxiv*. [doi:10.64898/2026.11.18.767706](https://doi.org/10.64898/2026.11.18.767706).
+
 
 
 ![Figure 1A–B. Aging mouse liver study design and the four profiling assays.](img/Figure1AB.png)
